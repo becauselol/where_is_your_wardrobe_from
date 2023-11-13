@@ -1,0 +1,11 @@
+{
+  "name": "where_is_your_wardrobe_from",
+  "version": "1.0.0",
+  "description": "quiz to tell you where your wardrobe is from",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
